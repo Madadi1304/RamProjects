@@ -1,3 +1,5 @@
+//Program to find duplicate character in a string and count the number of occurrences.
+
 package Programs;
 
 import java.io.BufferedReader;
@@ -5,7 +7,6 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 public class CountChar {
-
 	public static void main(String[] args) throws IOException {
 		String str;
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

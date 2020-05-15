@@ -1,3 +1,5 @@
+//Program to find whether given number is Prime or not
+
 package Programs;
 
 public class PrimeNumber {

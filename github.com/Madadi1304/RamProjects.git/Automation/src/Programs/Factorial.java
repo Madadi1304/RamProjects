@@ -1,3 +1,5 @@
+//Program to find the factorial of given number
+
 package Programs;
 
 public class Factorial {

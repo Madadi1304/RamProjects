@@ -1,3 +1,5 @@
+//Program to find whether given string/number is Palindrome or not
+
 package Programs;
 
 import java.util.Scanner;

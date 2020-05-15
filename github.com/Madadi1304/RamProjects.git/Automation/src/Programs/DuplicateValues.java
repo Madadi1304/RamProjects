@@ -1,3 +1,5 @@
+//Program to find the duplicate values in an Array
+
 package Programs;
 
 public class DuplicateValues {

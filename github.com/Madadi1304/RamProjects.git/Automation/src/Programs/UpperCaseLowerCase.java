@@ -1,3 +1,5 @@
+//Program to find the Uppercase and lowercase element in the given string and print it separately.
+
 package Programs;
 
 import java.util.Scanner;
